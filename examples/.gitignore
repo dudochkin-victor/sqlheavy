@@ -1,0 +1,13 @@
+.deps
+.libs
+*.c
+*.o
+*.stamp
+*~
+async
+backup
+browser
+common-functions
+dbpool
+orm
+
